@@ -1,0 +1,110 @@
+
+#main {
+	background: #4f4e4a;
+	text-align: center;
+    color: #fff;
+    padding: 5px;
+}
+
+#main p {
+    font-size: 16px;
+    font-style: italic;
+}
+
+
+#body {
+    background: url('img/back.JPG') center center no-repeat;
+    background-size: cover;
+    padding: 40px
+}
+
+#body #talks p {
+    font-size: 20px;
+    width: 500px;
+    height: 200px;
+    padding: 10px;
+}
+
+#talks h2 {
+    font-size: 40px
+}
+
+#post-form {
+    width: 40%;
+    border: solid 1px #999;
+    border-radius: 10px;
+    padding: 12px 7px;
+    background: #a38b4e;
+    margin-top: -20px;
+}
+
+
+#post-form h3 {
+    text-align: center;
+    color: #eee;
+}
+
+.form-control {
+    width: 90%;
+    border-radius: none;
+    
+}
+
+.form-group {
+    padding: 0 30px;
+    margin: 15px 40px;
+    
+}
+ 
+.form-group label {
+    width: 90%;
+    background: #5e4f4f;
+/*    border: solid 1px none;*/
+    margin-bottom: 0;
+    font-size: 16px;
+    color: #eee;
+    padding: 5px 3px;
+    text-align: center;
+    
+}
+
+.form-group input {
+    
+}
+
+#post-form .btn {
+    padding: 5px 50px;
+    font-size: 16px;
+    position: relative;
+    top: 0;
+    right: -150px;
+}
+
+section#foot {
+    text-align: center;
+    padding: 5px;
+    background: #595656;
+}
+
+.footer p {
+    font-size: 14px;
+    color: #ddd;
+    line-height: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
